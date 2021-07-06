@@ -14,11 +14,11 @@
 // declarando variavel JS:
 //JS não exige que declare o tipo da variável;
 
-var a = 10; //int
-var a = 13.5; //float
-var c = "Ana"; //string
-var d = false; //bool
-d = 15;
+//var a = 10; //int
+//var a = 13.5; //float
+//var c = "Ana"; //string
+//var d = false; //bool
+//d = 15;
 
 //let vs var: escopo da variavel
 // var: escapa do seu escopo - se dec. dentro da função pode acessar fora da função;
